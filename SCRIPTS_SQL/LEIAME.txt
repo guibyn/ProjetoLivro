@@ -1,0 +1,1 @@
+Será necessário editar o diretório dos arquivos csv dentro do "2_import_data" para a pasta data
